@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **other game devs to make a game**
 
-- 👨‍💻 All of my projects are available at [N/A()](https://kadendefazio.github.io/index.html)
+- 👨‍💻 All of my projects are available at [My Portfolio Website!](https://kadendefazio.github.io/index.html)
 
 - 💬 Ask me about **C# and Unity**
 
