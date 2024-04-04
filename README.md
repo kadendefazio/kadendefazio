@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C#, HTML, CSS, Java, and Javascript**
 
-- 👯 I’m looking to collaborate on **other game devs to make a game**
+- 👯 I’m looking to collaborate on **2D/3D platformers**
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website!](https://kadendefazio.github.io/)
 
