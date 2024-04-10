@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **2D/3D platformers**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website!](https://kadendefazio.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website!](https://kadendefazio.github.io/kadendefaziodev.github.io/)
 
 - 💬 Ask me about **C# and Unity**
 
