@@ -3,19 +3,19 @@
 <h3 align="center">A passionate beginner game developer from Pittsburgh, PA</h3>
 <img align = "right" alt="Coding" width= "400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on Building 4 Games in a Month!
+- 🔭 I’m currently working on my Headstarter AI Fellowship!
 
 - 🌱 I’m currently learning **C#, HTML, CSS, Java, and Javascript**
 
 - 👯 I’m looking to collaborate on **2D/3D platformers**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website!](https://kadendefazio.github.io/kadendefaziodev.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website!](https://kadendefazio.github.io/kaden.dev.github.io/)
 
 - 💬 Ask me about **C# and Unity**
 
 - 📫 How to reach me **kadendefazioschool@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1_Hjc6BjUzIh4voCgKxUVfUiXmN-J7iyTh1tby93h3o0/edit?usp=sharing](https://docs.google.com/document/d/1_Hjc6BjUzIh4voCgKxUVfUiXmN-J7iyTh1tby93h3o0/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1_Hjc6BjUzIh4voCgKxUVfUiXmN-J7iyTh1tby93h3o0/edit?usp=sharing](https://docs.google.com/document/d/1_Hjc6BjUzIh4voCgKxUVfUiXmN-J7iyTh1tby93h3o0/edit?usp=sharing)](https://docs.google.com/document/d/16kMpRIc4O_pvbUcpvYDTI4vrOtxGfXGR/edit?usp=sharing&ouid=102259750729798039568&rtpof=true&sd=true)
 
 - ⚡ Fun fact **My first ever coding experience was on Scratch :)**
 
