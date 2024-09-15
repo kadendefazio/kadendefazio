@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaden DeFazio</h1>
 <h3 align="center">a Game, Software, and Web Developer from Pittsburgh, PA</h3>
 
-- 🔭 I’m currently working on **Gunningham 2D**
+- 🔭 I’m currently working on **FirePower**
 
 - 🌱 I’m currently learning **C#, Java, Javascript**
 
