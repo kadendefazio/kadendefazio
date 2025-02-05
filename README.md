@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kadendefazioschool@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HSYkE8GWlONlXYKFUYUnH1cnqORgjnwF/edit?usp=sharing&ouid=102259750729798039568&rtpof=true&sd=true]([https://docs.google.com/document/d/1HSYkE8GWlONlXYKFUYUnH1cnqORgjnwF/edit?usp=sharing&ouid=102259750729798039568&rtpof=true&sd=true](https://docs.google.com/document/d/1P6R-PjqHFuh8QmKBz4kCANqoevA6OsdJ/edit?usp=sharing&ouid=102259750729798039568&rtpof=true&sd=true))
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1HSYkE8GWlONlXYKFUYUnH1cnqORgjnwF/edit?usp=sharing&ouid=102259750729798039568&rtpof=true&sd=true](https://docs.google.com/document/d/1P6R-PjqHFuh8QmKBz4kCANqoevA6OsdJ/edit?usp=sharing&ouid=102259750729798039568&rtpof=true&sd=true)]
 
 - ⚡ Fun fact **I built a mobile game during a car ride**
 
